@@ -1,5 +1,7 @@
 ## Hi 👋 I'm Peifang
 
+I am actively seeking **software engineer** opportunities and would welcome any possibilities or discussions regarding potential roles or projects. Please reach out to me at [LinkedIn](https://www.linkedin.com/in/peifangchiang) or email: peifang003@gmail.com.
+
 
 ✨ Frontend: React, JavaScript, TypeScript, Tailwind CSS, jQuery, Bootstrap </br>
 ✨ Backend: Java, Python, Node.js </br>
