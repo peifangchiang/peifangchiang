@@ -1,5 +1,11 @@
 ## Hi 👋 I'm Peifang
 
+
+✨ Frontend: React, JavaScript, TypeScript, Tailwind CSS, jQuery, Bootstrap
+✨ Backend: Java, Python, Node.js
+✨ Others: MySQL, Microsoft SQL Serve, Oracle Database, MongoDB, R, Figma
+
+
 <!--
 **peifangchiang/peifangchiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
