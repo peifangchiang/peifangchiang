@@ -1,9 +1,9 @@
 ## Hi 👋 I'm Peifang
 
 
-✨ Frontend: React, JavaScript, TypeScript, Tailwind CSS, jQuery, Bootstrap
-✨ Backend: Java, Python, Node.js
-✨ Others: MySQL, Microsoft SQL Serve, Oracle Database, MongoDB, R, Figma
+✨ Frontend: React, JavaScript, TypeScript, Tailwind CSS, jQuery, Bootstrap </br>
+✨ Backend: Java, Python, Node.js </br>
+✨ Others: MySQL, Microsoft SQL Serve, Oracle Database, MongoDB, R, Figma </br>
 
 
 <!--
