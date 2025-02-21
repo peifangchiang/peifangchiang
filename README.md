@@ -1,4 +1,4 @@
-## Hi 👋 I'm Peifang
+## Hi 👋 I'm Pei-Fang
 
 I am actively seeking **software engineer** opportunities and would welcome any possibilities or discussions regarding potential roles or projects. Please reach out to me at [LinkedIn](https://www.linkedin.com/in/peifangchiang) or email: peifang003@gmail.com.
 
