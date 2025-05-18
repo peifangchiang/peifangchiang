@@ -1,11 +1,15 @@
 ## Hi 👋 I'm Pei-Fang
 
-I am actively seeking **software engineer** opportunities and would welcome any possibilities or discussions regarding potential roles or projects. Please reach out to me at [LinkedIn](https://www.linkedin.com/in/peifangchiang) or email: peifang003@gmail.com.
+I am a Software Engineer with a strong focus on full-stack development and cloud computing. I bring hands-on experience in building scalable distributed systems and cloud solutions across industries like FinTech and EduTech.
 
+My technical skills include:
+✨ Programming Languages: Python, Java, JavaScript, TypeScript </br>
+✨ Cloud and DevOps: AWS (Lambda, CloudFormation, Route 53, S3, ELB, EC2, VPC), GCP, Docker, Terraform </br>
+✨ Data Management: SQL, NoSQL, R, MongoDB, Redis, Pandas, Stata </br>
+✨ Web Development: HTML/CSS, React.js, Express.js, Node.js, Next.js, Bootstrap, Tailwind, Material-UI, API, Figma </br>
+✨ Technology: CI/CD, Git, Jira, Shell Script, RabbitMQ, Celery </br>
 
-✨ Frontend: React, JavaScript, TypeScript, Tailwind CSS, jQuery, Bootstrap </br>
-✨ Backend: Java, Python, Node.js </br>
-✨ Others: MySQL, Microsoft SQL Serve, Oracle Database, MongoDB, R, Figma </br>
+I'm currently open to full-stack/backend/cloud engineering roles. Feel free to reach out to me at [LinkedIn](https://www.linkedin.com/in/peifangchiang) or email: peifang003@gmail.com!
 
 
 <!--
