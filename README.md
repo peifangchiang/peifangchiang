@@ -2,7 +2,7 @@
 
 I am a Software Engineer with a strong focus on full-stack development and cloud computing. I bring hands-on experience in building scalable distributed systems and cloud solutions across industries like FinTech and EduTech.
 
-My technical skills include:
+My technical skills include: </br>
 ✨ Programming Languages: Python, Java, JavaScript, TypeScript </br>
 ✨ Cloud and DevOps: AWS (Lambda, CloudFormation, Route 53, S3, ELB, EC2, VPC), GCP, Docker, Terraform </br>
 ✨ Data Management: SQL, NoSQL, R, MongoDB, Redis, Pandas, Stata </br>
