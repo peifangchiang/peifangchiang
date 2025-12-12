@@ -1,6 +1,6 @@
 # Hi, I'm Pei-Fang
 
-I am a Software Engineer with a strong focus on full-stack development and cloud computing.
+I am a Software Engineer with expertise in full-stack development and cloud technologies.
 
 ## Languages and Tools
 ![Static Badge](https://img.shields.io/badge/Python-F8CB3D?style=flat&logo=python)
