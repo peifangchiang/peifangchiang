@@ -1,15 +1,34 @@
-## Hi 👋 I'm Pei-Fang
+# Hi 👋 I'm Pei-Fang
 
-I am a Software Engineer with a strong focus on full-stack development and cloud computing. I bring hands-on experience in building scalable distributed systems and cloud solutions across industries like FinTech and EduTech.
+I am a Software Engineer with a strong focus on full-stack development and cloud computing.
 
-My technical skills include: </br>
-✨ Programming Languages: Python, Java, JavaScript, TypeScript </br>
-✨ Cloud and DevOps: AWS (Lambda, CloudFormation, Route 53, S3, ELB, EC2, VPC), GCP, Docker, Terraform </br>
-✨ Data Management: SQL, NoSQL, R, MongoDB, Redis, Pandas, Stata </br>
-✨ Web Development: HTML/CSS, React.js, Express.js, Node.js, Next.js, Bootstrap, Tailwind, Material-UI, API, Figma </br>
-✨ Technology: CI/CD, Git, Jira, Shell Script, RabbitMQ, Celery </br>
-
-I'm currently open to full-stack/backend/cloud engineering roles. Feel free to reach out to me at [LinkedIn](https://www.linkedin.com/in/peifangchiang) or email: peifang003@gmail.com!
+## Languages and Tools
+![Static Badge](https://img.shields.io/badge/Python-F8CB3D?style=flat&logo=python)
+![Static Badge](https://img.shields.io/badge/JavaScript-EFD91C?style=flat&logo=JavaScript&color=black)
+![Static Badge](https://img.shields.io/badge/TypeScript-white?style=flat&logo=TypeScript)
+![Static Badge](https://img.shields.io/badge/Java-E5E5E5?style=flat&logo=Java&color=517D9B)
+![Static Badge](https://img.shields.io/badge/React-0A7EA4?style=flat&logo=React)
+![Static Badge](https://img.shields.io/badge/Node-408740?style=flat&logo=Node.js)
+![Static Badge](https://img.shields.io/badge/Express-gray?style=flat&logo=Express)
+![Static Badge](https://img.shields.io/badge/Next-black?style=flat&logo=Next.js)
+![Static Badge](https://img.shields.io/badge/Redux-purple?style=flat&logo=Redux)
+![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-white?style=flat&logo=Tailwindcss)
+![Static Badge](https://img.shields.io/badge/Bootstrap-white?style=flat&logo=Bootstrap)
+![Static Badge](https://img.shields.io/badge/Figma-1ABCFE?style=flat&logo=Figma)
+![Static Badge](https://img.shields.io/badge/SQL-orange?style=flat&logo=SQL)
+![Static Badge](https://img.shields.io/badge/NoSQL-blue?style=flat&logo=NoSQL)
+![Static Badge](https://img.shields.io/badge/MongoDB-black?style=flat&logo=MongoDB)
+![Static Badge](https://img.shields.io/badge/AWS-FF9700?style=flat&logo=AWS)
+![Static Badge](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=GCP)
+![Static Badge](https://img.shields.io/badge/Packer-gray?style=flat&logo=Packer)
+![Static Badge](https://img.shields.io/badge/Terraform-F8F8F8?style=flat&logo=Terraform)
+![Static Badge](https://img.shields.io/badge/Github%20Actions-black?style=flat&logo=Github%20Actions)
+![Static Badge](https://img.shields.io/badge/Docker-1D63ED?style=flat&logo=Docker)
+![Static Badge](https://img.shields.io/badge/FastAPI-F8F8F8?style=flat&logo=FastAPI)
+![Static Badge](https://img.shields.io/badge/RabbitMQ-F8F8F8?style=flat&logo=RabbitMQ)
+![Static Badge](https://img.shields.io/badge/Redis-white?style=flat&logo=Redis)
+![Static Badge](https://img.shields.io/badge/Firebase-red?style=flat&logo=Firebase)
+![Static Badge](https://img.shields.io/badge/R-2166B9?style=flat&logo=R)
 
 
 <!--
