@@ -1,4 +1,4 @@
-# Hi 👋 I'm Pei-Fang
+# Hi, I'm Pei-Fang
 
 I am a Software Engineer with a strong focus on full-stack development and cloud computing.
 
